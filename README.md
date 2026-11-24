@@ -1,7 +1,6 @@
 # tensors-from-arrays-to-autograd
 
-Youtube walkthrough / explanation of this code:  
-[Implementing Tensors: From Arrays to Autograd](https://youtu.be/WHPWau5Z-S8)  
+Youtube Walkthrough: [Implementing Tensors: From Arrays to Autograd](https://youtu.be/WHPWau5Z-S8)  
 
 A minimal tensor library built from scratch in Python — exploring tensor operations, computation graphs, automatic differentiation (autograd), and an MNIST classifier  — with **zero machine-learning framework dependencies**. Just NumPy (CPU) or CuPy (GPU).
 
